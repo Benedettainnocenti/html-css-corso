@@ -1,0 +1,21 @@
+.casella1, .casella2 {display: inline-block;
+box-shadow:0 4px 10px rgba(0, 0, 0, 0.15);}
+
+.golden, .chi {height: 150px;
+    width: 150px;
+}
+
+.Actarus, .Ulisse {font-style: Arial;
+font-weight: bold;
+margin-left: 5px;
+}
+
+.Aggiungi {font-style: Arial;
+color: white;
+background-color: rgb(18, 122, 182);
+border-color: rgb(18, 122, 182);
+margin-left: 15px;
+margin-bottom: 3px}
+
+.Aggiungi:hover {cursor:pointer}
+
