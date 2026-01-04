@@ -1,0 +1,43 @@
+.nome {display: inline-block;
+font-style: arial;
+font-size: 15px;
+color:grey;
+border-radius: 10px;
+width: 100px;
+height: 20px;
+border-width: 1px;
+}
+
+.cognome {display: inline-block;
+font-style: arial;
+font-size: 15px;
+color:grey;
+border-radius: 10px;
+width: 100px;
+height: 20px;
+border-width: 1px;
+}
+
+.email {display: block;
+font-style: arial;
+font-size: 15px;
+color:grey;
+border-radius: 10px;
+width: 205px;
+height: 20px;
+border-width: 1px;
+margin-top: 3px;
+}
+
+.iscrizione {font-style: arial;
+font: size 15px;
+color:white;
+background-color: blue;
+border-radius: 10px;
+border-color: blue;
+width: 100px;
+height: 30px;
+margin-top: 3px;
+}
+
+.iscrizione:hover {cursor: pointer;}
