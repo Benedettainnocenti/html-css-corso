@@ -1,0 +1,16 @@
+arrotondare un numero 
+Math.round() --> con la maiuscola, Javascript è CASE SENSITIVE
+
+far comparire un banner con scritto hello 
+alert('hello')
+
+farsi dire di che tipo dato è qualcosa
+typeof qualcosa
+
+interpolation
+'items (${1+1}): $${(2095+799)/100}'
+
+creare variabili:
+let nomeVariabile
+const nomeVariabile --> non permette la modificazione successiva del valore assegnato
+var nomeVariabile 
